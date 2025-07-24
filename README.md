@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 🔭 Currently building **Portfolio + Dashboard based fullstack projects**  
+ 🔭 Currently building **on langchain, langgraph**  
  
 ⚡ Created [Dreamwall](https://dreamwallv2.vercel.app) — a social wallpaper-sharing community platform
 
